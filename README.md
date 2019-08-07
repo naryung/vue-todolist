@@ -1,7 +1,7 @@
 # vue-todo
 
 > A Vue.js project
-> Do it! Vue.js 입문 교재 예제
+> (Do it! Vue.js 입문 교재 예제)
 
 ## Build Setup
 
