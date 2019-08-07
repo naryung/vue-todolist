@@ -1,4 +1,5 @@
 <template>
+<!-- https://vuejs.org/v2/examples/modal.html -->
 <!-- template for the modal component -->
 <transition name="modal">
     <div class="modal-mask">
